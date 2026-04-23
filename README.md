@@ -1,6 +1,7 @@
 # SE
 
 **Job Title:** AI Engineer
+
 **Job Duration:** 1 Jan 2027 - Present
 
 **Process:**
@@ -24,12 +25,6 @@ graph TD
 
 ---
 Believe In Yourself
----
-
----
 You can do it.
----
-
----
-Let's meet me at the ship.
----
+Let's meet me at the ship
+Keep Going.
