@@ -24,7 +24,8 @@ graph TD
 ```
 
 ---
-Believe In Yourself
-You can do it.
-Let's meet me at the ship
-Keep Going.
+Believe In Yourself <br>
+You can do it. <br>
+Let's meet me at the ship <br>
+Keep Going. <br>
+I am a Monster, I will only hurt her, keep away, if you truly love her. <br>
